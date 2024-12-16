@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN Stack Developer and a future data scientist from Pakistan</h3>
 
 - 🔭 I’m currently working on **E-commerce project**
 
